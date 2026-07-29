@@ -12,7 +12,7 @@ An MLOps-powered agricultural pest detection system using a fine-tuned MobileNet
 
 ## 📺 Video Demo
 
-[![Watch Demo](https://img.shields.io/badge/▶️_Watch-Demo_on_YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/4mwo641LSp8)
+[![Watch Demo](https://img.shields.io/badge/▶️_Watch-Demo_on_YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/zpI7nLW-0ew)
 
 🎥 **Click above to watch the full demonstration video**
 
